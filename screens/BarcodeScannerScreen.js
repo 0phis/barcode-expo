@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
   focused: {
     flex: 10,
     borderColor: '#00b4b6',
-    borderWidth: 1,
+    borderWidth: 2,
   },
   layerRight: {
     flex: 1,
